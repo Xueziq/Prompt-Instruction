@@ -13,6 +13,11 @@ https://wjn1996.blog.csdn.net/article/details/120607050?spm=1001.2101.3001.6650.
 
 
 Project：
+
 https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM
 
 https://github.com/ydli-ai/Chinese-ChatLLaMA/tree/main/instructions
+
+Course：
+
+https://www.promptingguide.ai/zh/techniques/ape
